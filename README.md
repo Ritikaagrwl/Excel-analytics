@@ -5,7 +5,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]((https://github.com/Ritikaagrwl/Excel-analytics/blob/main/Customer%20performance%20report.pdf))_
+    **1.** Create a _[customer performance report](https://github.com/Ritikaagrwl/Excel-analytics/blob/main/Customer%20performance%20report.pdf)_
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Ritikaagrwl/Excel-analytics/blob/main/market%20vs%20target%20report.pdf)_
 
@@ -30,7 +30,7 @@
 
 ## Income tracker report:
  - **Project Objective**
-      **1.** Create a _[Income tracker report]((https://github.com/Ritikaagrwl/Excel-analytics/blob/main/income%20tracker%20report.pdf))_
+      **1.** Create a _[Income tracker report](https://github.com/Ritikaagrwl/Excel-analytics/blob/main/income%20tracker%20report.pdf)_
    - **Purpose of Income tracker report:** It helps manage, budget, and monitor income sources, supporting financial stability, goals, and informed decisions.
    - **Role of report:** The role of an income tracker report is to monitor, plan, and analyze income sources for informed financial management and decision-making.
   
