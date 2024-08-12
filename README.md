@@ -31,8 +31,20 @@
 ## Income tracker report:
  - **Project Objective**
       **1.** Create a _[Income tracker report](https://github.com/Ritikaagrwl/Excel-analytics/blob/main/income%20tracker%20report.pdf)_
-   - **Purpose of Income tracker report:** It helps manage, budget, and monitor income sources, supporting financial stability, goals, and informed decisions.
+   - **Purpose of Income Tracker Report:** It helps manage, budget, and monitor income sources, supporting financial stability, goals, and informed decisions.
    - **Role of report:** The role of an income tracker report is to monitor, plan, and analyze income sources for informed financial management and decision-making.
+  
+## Project Priority Matrix
+ - **Project Objective**
+      **1.** Create a _[Project Priority Matrix](https://github.com/Ritikaagrwl/Excel-analytics/blob/main/Project%20Priority%20Matrix.pdf)_
+   - **Purpose of Project Priority Matrix:** It evaluates and categorizes projects based on Feasibility, Impact, and Size. 
+   - **Role of Project:** This tool aids in prioritizing projects more efficiently.
+  
+## Scenario Planning Tool
+ - **Project Objective**
+      **1.** Create a _[Scenario Planning Tool](https://github.com/Ritikaagrwl/Excel-analytics/blob/main/Scenario%20Planning%20Tool.pdf)_
+   - **Purpose of Scenario Planning Tool:** It analyzes sales impact on financials. Calculate key metrics for Best, Realistic, and Worst Case scenarios to inform decision-making.
+   - **Role of Project:** This tool aids in strategic planning by providing insights into potential outcomes under different sales conditions.
   
   
 ## Technical & Soft Skills:
@@ -47,4 +59,4 @@
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Developing a systematic approach to devising a report-building plan.
